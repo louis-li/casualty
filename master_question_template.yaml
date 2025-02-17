@@ -1,0 +1,7 @@
+---
+questions_to_type:
+  What was the year founded?:
+    type: CLASS_CODE_QUESTIONS
+    category: Description of Operations
+    source: 10K
+    section: 
